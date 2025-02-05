@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este banco de dados foi desenvolvido para gerenciar informações relacionadas a **clientes**, **contas**, **pagamentos** e **entregas**. Ele permite registrar e consultar dados de clientes, associar múltiplas contas a um cliente, registrar diversas formas de pagamento por conta e gerenciar o status das entregas de cada conta.
+Esse banco de dados foi desenvolvido para gerenciar informações relacionadas a **clientes**, **contas**, **pagamentos** e **entregas**. Ele permite registrar e consultar dados de clientes, associar múltiplas contas a um cliente, registrar diversas formas de pagamento por conta e gerenciar o status das entregas de cada conta.
 
 ## Estrutura do Banco de Dados
 
@@ -173,4 +173,4 @@ mysql -u usuario -p < script_criacao_tabelas.sql
 
 ## Conclusão
 
-Este repositório contém um banco de dados para gerenciar informações de clientes, contas, pagamentos e entregas. Com a documentação e o modelo de dados fornecido, você pode facilmente configurar e interagir com o banco para registrar e consultar as informações necessárias.
+Esse repositório contém um banco de dados para gerenciar informações de clientes, contas, pagamentos e entregas. Com a documentação e o modelo de dados fornecido, você pode facilmente configurar e interagir com o banco para registrar e consultar as informações necessárias.
