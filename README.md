@@ -13,7 +13,7 @@ O modelo foi elaborado atendendo aos seguintes requisitos:
 ### Entrega
 - As entregas possuem um status (como "Pendente", "Enviado", "Em Trânsito", "Entregue").
 - Cada entrega também é associada a um código de rastreio, que pode ser utilizado para acompanhar o processo da entrega.
-- 
+
 ## Modelo Conceitual
 O modelo conceitual está estruturado da seguinte forma:
 
