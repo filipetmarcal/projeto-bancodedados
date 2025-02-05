@@ -14,11 +14,11 @@ O repositório contém **modelo conceitual**, **scripts SQL** e uma **documenta�
 ## Como Utilizar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/filipetmarcal/projeto-bancodedados.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd projeto-bancodedados
    ```
 3. Analise o modelo conceitual e utilize os scripts SQL conforme necessário.
 
